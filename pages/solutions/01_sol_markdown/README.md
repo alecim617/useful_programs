@@ -34,6 +34,15 @@ JEDEN $a^r × a^s = a^{r+s}$
 DWA $(a^r)^s = a^{r×s}$
 TRZY $(\frac{a}{b})^r = \frac{a^r}{b^r}$
 ## TRZY WZORY JAKO OSOBNY WYCENTROWANY BLOK
-JEDEN $$a^r × a^s = a^{r+s}$$
-DWA $$(a^r)^s = a^{r×s}$$
-TRZY $$(\frac{a}{b})^r = \frac{a^r}{b^r}$$
+JEDEN 
+$$
+a^r × a^s = a^{r+s}
+$$
+DWA 
+$$
+(a^r)^s = a^{r×s}
+$$
+TRZY 
+$$
+(\frac{a}{b})^r = \frac{a^r}{b^r}
+$$
