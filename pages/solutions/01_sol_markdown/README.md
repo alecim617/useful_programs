@@ -31,3 +31,5 @@ print(y)
 ```
 ## TRZY WZORY MATEMATYCZNE W TEKŚCIE
 1. $a^r × a^s = a^{r+s}$
+2. $(a^r)^s = a^{r×s}$
+3. $(\frac{a}{b})^2 = \frac{a^r}{b^r}$
