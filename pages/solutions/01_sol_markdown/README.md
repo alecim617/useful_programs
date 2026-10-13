@@ -29,3 +29,5 @@ x = 4
 y = x**4
 print(y)
 ```
+## TRZY WZORY MATEMATYCZNE W TEKŚCIE
+1. $a^r x a^s = a^r+s$
