@@ -30,6 +30,10 @@ y = x**4
 print(y)
 ```
 ## TRZY WZORY MATEMATYCZNE W TEKŚCIE
-1. $a^r × a^s = a^{r+s}$
-2. $(a^r)^s = a^{r×s}$
-3. $(\frac{a}{b})^2 = \frac{a^r}{b^r}$
+JEDEN $a^r × a^s = a^{r+s}$
+DWA $(a^r)^s = a^{r×s}$
+TRZY $(\frac{a}{b})^r = \frac{a^r}{b^r}$
+## TRZY WZORY JAKO OSOBNY WYCENTROWANY BLOK
+JEDEN $$a^r × a^s = a^{r+s}$$
+DWA $$(a^r)^s = a^{r×s}$$
+TRZY $$(\frac{a}{b})^r = \frac{a^r}{b^r}$$
