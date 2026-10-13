@@ -51,3 +51,5 @@ TRZY
 $$
 \(\frac{a}{b})^r = \frac{a^r}{b^r}
 $$
+## OSADZONY OBRAZEK 
+![WYKRES](wykres.png)
