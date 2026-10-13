@@ -12,6 +12,6 @@
 2. DWA
 3. TRZY
 ## CHECKLISTA
-- [ ] 1
+- [X] 1
 - [ ] 2
 - [ ] 3
