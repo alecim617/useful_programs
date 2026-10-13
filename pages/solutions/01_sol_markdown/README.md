@@ -37,7 +37,7 @@ TRZY $(\frac{a}{b})^r = \frac{a^r}{b^r}$
 JEDEN 
 
 $$
-\a^r × a^s = a^{r+s}
+\ a^r × a^s = a^{r+s}
 $$
 
 DWA
