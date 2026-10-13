@@ -11,3 +11,7 @@
 1. JEDEN
 2. DWA
 3. TRZY
+## CHECKLISTA
+- [ ] 1
+- [ ] 2
+- [ ] 3
