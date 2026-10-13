@@ -21,3 +21,5 @@
 | --- | --- | --- |
 | JEDEN | DWA | TRZY |
 | JEDEN | DWA | TRZY |
+## LINK DO STRONY GOOGLE COLAB
+[GoogleColab](http://colab.research.google.com)
