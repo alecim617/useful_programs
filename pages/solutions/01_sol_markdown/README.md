@@ -30,4 +30,4 @@ y = x**4
 print(y)
 ```
 ## TRZY WZORY MATEMATYCZNE W TEKŚCIE
-1. $a^r × a^s = a^r+s$
+1. $a^r × a^s = a^{r+s}$
