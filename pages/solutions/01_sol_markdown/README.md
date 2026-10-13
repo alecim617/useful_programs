@@ -23,3 +23,9 @@
 | JEDEN | DWA | TRZY |
 ## LINK DO STRONY GOOGLE COLAB
 [GoogleColab](http://colab.research.google.com)
+## KRÓTKI FRAGMENT KODU PYTHONA
+```python
+x = 4
+y = x**4
+print(y)
+```
